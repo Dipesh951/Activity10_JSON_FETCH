@@ -1,1 +1,23 @@
-
+[
+{
+"firstName": "Dipesh",
+"lastName": "Adhikari",
+"job": "Web Developer",
+"roll": "CS3870",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+},
+{
+"firstName": "Anish",
+"lastName": "Thapa",
+"job": "Software Engineer",
+"roll": "CS3870",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+},
+{
+"firstName": "Saurav",
+"lastName": "Dhakal",
+"job": "Frontend Developer",
+"roll": "CS3870",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+}
+]
